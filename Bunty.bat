@@ -1,3 +1,3 @@
 Ahojte
 
-Volam sa risko a som RUNTY.
+Volam sa Maxik a som BUNTY.
