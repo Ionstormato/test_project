@@ -1,3 +1,1 @@
-Ahojte
-
-Volam sa Maxik a som BUNTY.
+echo 'Volam sa Maxik a som BUNTY.'

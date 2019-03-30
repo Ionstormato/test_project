@@ -1,2 +1,2 @@
-Volam sa Risko a com velky Runty.
+Echo 'volam sa Risko a com velky Runty.'
 
