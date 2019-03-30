@@ -1,1 +1,2 @@
-echo "potrebujem pridat novy riadok"
+Volam sa Risko a com velky Runty.
+
