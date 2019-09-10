@@ -2,4 +2,4 @@
 Testing project for educational purposes.
 Testing Jenkins integration and/or gitbash workflow/
 
-update1:
+update2_now this is updated
