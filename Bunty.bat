@@ -3,3 +3,5 @@ echo Nova zmena
 echo Tretia zmena
 echo Stvrdya m
 echo la bla 
+
+>> remote update
